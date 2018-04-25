@@ -43,7 +43,7 @@ Luis Flores Vivaldo
  
  <!--Colocar icono app -->
  
- <icon src="res/android/mdpi.png"/>
+ <icon src"res/android/icono.png"/>
  
  </widget>
  
